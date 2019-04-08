@@ -1,0 +1,44 @@
+name: kPotions
+version: ${project.version}
+main: me.randomizable.kinstantpotions.kPotions
+api-version: 1.13
+authors: [Randomizable]
+description: Instant potion commands for 1.13.2
+website: twitter.com/randomizable
+
+commands:
+  speed:
+    usage: /speed
+    description: Toggles speed for the sender.
+    aliases: [sp]
+  strength:
+    usage: /strength
+    description: Toggles strength for the sender.
+    aliases: [st,str]
+  haste:
+    usage: /haste
+    description: Toggles haste for the sender.
+  nightvision:
+    usage: /nightvision
+    description: Toggles night vision for the sender.
+    aliases: [nv]
+  jumpboost:
+    usage: /jumpboost
+    description: Toggles jump boost for the sender.
+    aliases: [jb]
+  waterbreathing:
+    usage: /waterbreathing
+    description: Toggles water breathing for the sender.
+    aliases: [wb]
+  invisibility:
+    usage: /invisibility
+    description: Toggles invisibility for the sender.
+    aliases: [invis,in]
+  fireresistance:
+    usage: /fireresistance
+    description: Toggles fire resistance for the sender.
+    aliases: [fr,fireres]
+  slowfalling:
+    usage: /slowfalling
+    description: Toggles slow falling for the sender.
+    aliases: [sf,slowfall]

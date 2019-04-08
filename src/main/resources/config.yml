@@ -1,0 +1,55 @@
+#Instant Potion Commands by Randomizable! // Twitter.com/randomizable
+#Thanks for using my plugin!
+
+
+#Misc Messages
+players_only_message: "&7[&bkPotions&7] &cThis command is for players only!"
+no_permission_message: "&7[&bkPotions&7] &cYou do not have permission to use this command!"
+commands_disabled_message: "&7[&bkPotions&7] &cThis command has been disabled."
+
+#Speed Command
+enable_speed_command: true
+speed_enabled: "&7[&bkPotions&7] &aYour speed has been enabled!"
+speed_disabled: "&7[&bkPotions&7] &cYour speed has been disabled!"
+
+#Strength Command
+enable_stength_command: true
+strength_enabled: "&7[&bkPotions&7] &aYour strength has been enabled!"
+strength_disabled: "&7[&bkPotions&7] &cYour strength has been disabled!"
+
+#Invisibility Command
+enable_invisibility_command: true
+invisibility_enabled: "&7[&bkPotions&7] &aYour invisibility has been enabled!"
+invisibility_disabled: "&7[&bkPotions&7] &cYour invisibility has been disabled!"
+
+#Haste Command
+enable_haste_command: true
+haste_enabled: "&7[&bkPotions&7] &aYour haste has been enabled!"
+haste_disabled: "&7[&bkPotions&7] &cYour haste has been disabled!"
+
+#Fireresistance Command
+enable_fireres_command: true
+fireres_enabled: "&7[&bkPotions&7] &aYour fire resistance has been enabled!"
+fireres_disabled: "&7[&bkPotions&7] &cYour fire resistance has been disabled!"
+
+#Waterbreathing Command
+enable_waterbreathing_command: true
+waterbreathing_enabled: "&7[&bkPotions&7] &aYour water breathing has been enabled!"
+waterbreathing_disabled: "&7[&bkPotions&7] &cYour water breathing has been disabled!"
+
+#Slowfall Command
+enable_slowfalling_command: true
+slowfalling_enabled: "&7[&bkPotions&7] &aYour slow falling has been enabled!"
+slowfalling_disabled: "&7[&bkPotions&7] &cYour slow falling has been disabled!"
+require_slowfall_onground: true
+require_onground_message: "&7[&bkPotions&7] &cYou must be on the ground to use this command!"
+
+#Jumpboost Command
+enable_jumpboost_command: true
+jumpboost_enabled: "&7[&bkPotions&7] &aYour jump boost has been enabled!"
+jumpboost_disabled: "&7[&bkPotions&7] &cYour jump boost has been disabled!"
+
+#Nightvision Command
+enable_nightvision_command: true
+nightvision_enabled: "&7[&bkPotions&7] &aYour night vision has been enabled!"
+nightvision_disabled: "&7[&bkPotions&7] &cYour night vision has been disabled!"
